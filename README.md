@@ -1,5 +1,5 @@
 # nextjs-with-quick.db
-A NextJS boilerplate that saves the current value through the built in API in NextJS using <a href="https://www.npmjs.com/package/quick.db" target="_blank">Quick.DB</a> as an alternative to more complex databases so that beginners can learn more about data storing & fetching.
+A NextJS boilerplate that saves the current value through the built in API in NextJS using [Quick.DB](https://www.npmjs.com/package/quick.db) as an alternative to more complex databases so that beginners can learn more about data storing & fetching.
 
 ### Installation & Running
 * Download: `git clone https://github.com/etcroot/nextjs-with-quick.db.git`
