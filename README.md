@@ -5,6 +5,7 @@ A NextJS boilerplate that saves the current value through the built in API in Ne
 * Download: `git clone https://github.com/etcroot/nextjs-with-quick.db.git`
 * Enter Directory: `cd nextjs-with-quick.db`
 * Install: `npm i`
+* Edit the URL in `env.local.example`, then save & rename it to `env.local`
 * Run Dev Mode: `npm run dev`
 * Build Application: `npm run build`
 * Run Production Mode: `npm start`
