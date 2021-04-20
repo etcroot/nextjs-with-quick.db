@@ -2,11 +2,11 @@
 A NextJS boilerplate using quick.db as alternative storage
 
 ### Installation & Running
-Install:
+* Install:
 `npm i`
-Run Dev Mode:
+* Run Dev Mode:
 `npm run dev`
-Build Application:
+* Build Application:
 `npm run build`
-Run Production Mode:
+* Run Production Mode:
 `npm start`
