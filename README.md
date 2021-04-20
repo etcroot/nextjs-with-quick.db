@@ -14,3 +14,4 @@ A NextJS boilerplate that saves the current value through the built in API in Ne
 * NodeJS
 * NPM
 * Install Packages with `npm i`
+* The requirements that [Quick.DB](https://github.com/etcroot/nextjs-with-quick.db) has which is usually microsoft built tools for sqlite.
